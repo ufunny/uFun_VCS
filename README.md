@@ -23,29 +23,31 @@ __μfun 项目组已经确定使用 Github 来作为 μfun 项目软件部分代
 ![](https://code.csdn.net/CSDN_Code/progit/blob/master/figures/18333fig0103-tn.png)
 --
 
-* ### 2. Git 相关的教程:    
+### 2. Git 资料:     
 
-    > -  [Git 官网](http://git-scm.com/)    
+> -  [Git 官网](http://git-scm.com/)    
 
-    > -  __这里还有一个非常不错的流程图教程, 会非常受用. [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=index;)__  __十分推荐!__    
+> -  __这里还有一个非常不错的流程图教程, 会非常受用. [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=index;)__  __十分推荐!__     
+
+> -  [廖雪峰: Git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000), 国内的以为大拿. 做的很不错, 另外那个 python 做的也挺好, 可惜我没坚持学完. 半吊子了. 可惜.    
     
-    > -  [廖雪峰: Git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000), 国内的以为大拿. 做的很不错, 另外那个 python 做的也挺好, 可惜我没坚持学完. 半吊子了. 可惜.    
+> -  [Pro Git，作者Scoot Chacon. Git官网唯一参考书.Pro Git book(简体中文版)](http://git-scm.com/book/zh/v1)    
     
-    > -  [Pro Git，作者Scoot Chacon. Git官网唯一参考书.Pro Git book(简体中文版)](http://git-scm.com/book/zh/v1)    
+> - [OSChina 的 Pro Git 中文版](http://git.oschina.net/progit/index.html) 这个版本和上面的那个一样. 不过更清爽一些.     
     
-    > - [OSChina 的 Pro Git 中文版](http://git.oschina.net/progit/index.html) 这个版本和上面的那个一样. 不过更清爽一些.     
+> -  嫌繁琐的话, 这里有个简化版本的, 基本满足要求. 深入的话再看 Pro Git Book. [CSDN CODEProgit中文版](https://code.csdn.net/help/CSDN_Code/code_support/Progit_Index)
     
-    > -  嫌繁琐的话, 这里有个简化版本的, 基本满足要求. 深入的话再看 Pro Git Book. [CSDN CODEProgit中文版](https://code.csdn.net/help/CSDN_Code/code_support/Progit_Index)
-    
-    > - 这个是 github 官方给的教程, git 的常用功能. [github-git-cheat-sheet.pdf](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)    
+> - 这个是 github 官方给的教程, git 的常用功能. [github-git-cheat-sheet.pdf](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)    
     
 
-* ## 3. 鉴于大家基本都用windows,  这里推荐安装 windows 下的客户端 mysysgit + TortoiseGit.     
+#### 2.1 Git 客户端安装.    
+> 鉴于大家基本都用windows,  这里推荐安装 windows 下的客户端 mysysgit + TortoiseGit.     
 
-* ## 4. Github 的 [windows客户端不支持 XP](https://help.github.com/articles/windows-xp-is-not-supported/). 用 XP 的要慎重了. 用 TortoiseGit 吧. 哈哈       
-    > - [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)      
+#### 2.2 Github 客户端.    
+> [windows客户端不支持 XP](https://help.github.com/articles/windows-xp-is-not-supported/). 用 XP 的要慎重了. 用 TortoiseGit 吧. 哈哈       
+> > - [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)      
     
-* ## 5. 如果想安装 Github for windows 客户端的话, 就不需要安装 msysgit 和 TortoiseGit 了.     
+> 如果想安装 Github for windows 客户端的话, 就不需要安装 msysgit 和 TortoiseGit 了.     
 
     > - [TortoiseGit和msysGit安装及使用笔记（windows下使用上传数据到GitHub）](http://blog.csdn.net/chinaonlyqiu/article/details/8826767)
     > - TortoiseGit 在 google 的 code 上, 不翻墙可能上不了. 所以, 我下载下来放到 **百度网盘** 了, 基本都是最新版(2014-12-25 22:50:29): __[分享: Git&Github版本管理软件工具包-12.25    戳这里下载必要的软件](http://pan.baidu.com/s/1o6BOnrk)__    
@@ -61,7 +63,7 @@ __μfun 项目组已经确定使用 Github 来作为 μfun 项目软件部分代
     > 建议不要用 SSH 公钥, 没必要, 麻烦. 现在基本都用 https. 客户端都会缓存你的认证信息, 等你输入一次之后, 基本以后都不需要再重新输入 . 
     >  > - [Github for windows 客户端帮助](https://help.github.com/categories/github-for-windows/)
 
-* ## 6. markdown 教程:
+## 3. markdown 教程
     >  由于 markdown 的实现各个平台有细节差异. 所以, 还是参照 Github 官方的 help 文档来学习比较有针对性. 还好内容不错. 可以很快上手.    
 
     >   > -  [基础知识](https://help.github.com/articles/markdown-basics/)    
@@ -76,7 +78,7 @@ __μfun 项目组已经确定使用 Github 来作为 μfun 项目软件部分代
     >   > - __[windows 下推荐使用 markdownpad ](http://markdownpad.com/)__来编写 markdown 文档, 可以离线编写, 实时预览, 不过高级版需要购买, 有钱的话就支持正版.
     >   > - [这个是在线具有实时预览功能的 markdown 编辑器](http://jbt.github.io/markdown-editor/)    
     
-## 7. License 选择问题:
+## 4. License 选择
 > 抛出几张图,  我也不大懂. 逃)       
 
 >  ![](http://image.beekka.com/blog/201105/bg2011050101.png)   
@@ -85,13 +87,15 @@ __μfun 项目组已经确定使用 Github 来作为 μfun 项目软件部分代
 
 
 -------
-__水平有限, 我只是 google/Baidu 的搬运工, 这些资料都是我曾经学习时用到的, 但是 Git 和 Github 用的不多, 所有有问题大家一起讨论互相学习共同进步.__  
+## 5. 后记    
+__水平有限, 我只是 google/Baidu 的搬运工, 这些资料都是我曾经学习时用到的, 但是 Git 和 Github 用的不多, 所有有问题大家一起讨论互相学习共同进步.__      
+
 > 如果哪里有遗漏的, 可以提出来我来补充.     
 
-
-> > > * By MingH
-> * Email: omonkerman@qq.com
-> * QQ: 401330597    
+---
+>  * By MingH
+ * Email: omonkerman@qq.com
+ * QQ: 401330597    
 ---   
 
 
