@@ -27,7 +27,8 @@ __μfun 项目组已经确定使用 Github 来作为 μfun 项目软件部分代
 
 > -  [Git 官网](http://git-scm.com/)    
 
-> -  __这里还有一个非常不错的流程图教程, 会非常受用. [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=index;)__  __十分推荐!__     
+> -  __这里还有一个非常不错的流程图教程, 会非常受用. [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=index;)__  __十分推荐!__    
+![](https://dn-coding-net-production-static.qbox.me/3304456c-3111-45db-9256-013816e6ac6a.png)
 
 > -  [廖雪峰: Git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000), 国内的一位大拿. 做的很不错, 另外那个 python 做的也挺好, 可惜我没坚持学完. 半吊子了. 可惜.    
     
