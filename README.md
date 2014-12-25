@@ -63,20 +63,20 @@ __μfun 项目组已经确定使用 Github 来作为 μfun 项目软件部分代
     > 建议不要用 SSH 公钥, 没必要, 麻烦. 现在基本都用 https. 客户端都会缓存你的认证信息, 等你输入一次之后, 基本以后都不需要再重新输入 . 
     >  > - [Github for windows 客户端帮助](https://help.github.com/categories/github-for-windows/)
 
-## 3. markdown 教程
-    >  由于 markdown 的实现各个平台有细节差异. 所以, 还是参照 Github 官方的 help 文档来学习比较有针对性. 还好内容不错. 可以很快上手.    
+## 3. markdown 
+>  由于 markdown 的实现各个平台有细节差异. 所以, 还是参照 Github 官方的 help 文档来学习比较有针对性. 还好内容不错. 可以很快上手.    
 
-    >   > -  [基础知识](https://help.github.com/articles/markdown-basics/)    
-    >   > -  [github 对 markdown 特色功能](https://help.github.com/articles/github-flavored-markdown/)    
-    >   > -  [Writing on GitHub](https://help.github.com/articles/writing-on-github/)       
-    >   > - [[译] GitHub 风格的 Markdown 语法](https://github.com/cssmagic/blog/issues/13)      
-    >   > -  [Markdown写作浅谈](http://www.yangzhiping.com/tech/r-markdown-knitr.html)       
-    >   > - [献给写作者的 Markdown 新手指南](http://www.jianshu.com/p/q81RER)
-    >   > - [Markdown语法说明(台湾-繁体中文)](http://markdown.tw/)    
-    >   > - [Markdown 语法说明 (简体中文版)](https://github.com/riku/Markdown-Syntax-CN/blob/master/syntax.md)
-    >   > - [Markdown 语法简体中文版](https://github.com/riku/Markdown-Syntax-CN) 整个项目的 Github 链接. 
-    >   > - __[windows 下推荐使用 markdownpad ](http://markdownpad.com/)__来编写 markdown 文档, 可以离线编写, 实时预览, 不过高级版需要购买, 有钱的话就支持正版.
-    >   > - [这个是在线具有实时预览功能的 markdown 编辑器](http://jbt.github.io/markdown-editor/)    
+>   > -  [基础知识](https://help.github.com/articles/markdown-basics/)    
+>   > -  [github 对 markdown 特色功能](https://help.github.com/articles/github-flavored-markdown/)    
+>   > -  [Writing on GitHub](https://help.github.com/articles/writing-on-github/)       
+>   > - [[译] GitHub 风格的 Markdown 语法](https://github.com/cssmagic/blog/issues/13)      
+>   > -  [Markdown写作浅谈](http://www.yangzhiping.com/tech/r-markdown-knitr.html)       
+>   > - [献给写作者的 Markdown 新手指南](http://www.jianshu.com/p/q81RER)
+>   > - [Markdown语法说明(台湾-繁体中文)](http://markdown.tw/)    
+>   > - [Markdown 语法说明 (简体中文版)](https://github.com/riku/Markdown-Syntax-CN/blob/master/syntax.md)
+>   > - [Markdown 语法简体中文版](https://github.com/riku/Markdown-Syntax-CN) 整个项目的 Github 链接. 
+>   > - __[windows 下推荐使用 markdownpad ](http://markdownpad.com/)__来编写 markdown 文档, 可以离线编写, 实时预览, 不过高级版需要购买, 有钱的话就支持正版.
+>   > - [这个是在线具有实时预览功能的 markdown 编辑器](http://jbt.github.io/markdown-editor/)    
     
 ## 4. License 选择
 > 抛出几张图,  我也不大懂. 逃)       
