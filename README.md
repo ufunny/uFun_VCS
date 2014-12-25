@@ -44,26 +44,34 @@ __μfun 项目组已经确定使用 Github 来作为 μfun 项目软件部分代
 > 鉴于大家基本都用windows,  这里推荐安装 windows 下的客户端 mysysgit + TortoiseGit.     
 
 #### 2.2 Github 客户端.    
-> [windows客户端不支持 XP](https://help.github.com/articles/windows-xp-is-not-supported/). 用 XP 的要慎重了. 用 TortoiseGit 吧. 哈哈       
+> [windows客户端不支持 XP](https://help.github.com/articles/windows-xp-is-not-supported/). 用 XP 的要慎重了. 用 TortoiseGit 吧. 哈哈      
+
 > > - [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)      
     
 > 如果想安装 Github for windows 客户端的话, 就不需要安装 msysgit 和 TortoiseGit 了.     
 
-    > - [TortoiseGit和msysGit安装及使用笔记（windows下使用上传数据到GitHub）](http://blog.csdn.net/chinaonlyqiu/article/details/8826767)
+    > - [TortoiseGit和msysGit安装及使用笔记（windows下使用上传数据到GitHub）](http://blog.csdn.net/chinaonlyqiu/article/details/8826767)    
+    
     > - TortoiseGit 在 google 的 code 上, 不翻墙可能上不了. 所以, 我下载下来放到 **百度网盘** 了, 基本都是最新版(2014-12-25 22:50:29): __[分享: Git&Github版本管理软件工具包-12.25    戳这里下载必要的软件](http://pan.baidu.com/s/1o6BOnrk)__    
-    > - 先安装 TortoiseGit 再安装中文包 LanguagePack. 根据情况选择 32bit 和 64bit. 
-    > -  安装完之后就是配置了.    
+    
+    > - 先安装 TortoiseGit 再安装中文包 LanguagePack. 根据情况选择 32bit 和 64bit.     
+    
+    > -  安装完之后就是配置了.     
 
     >  > 这个可以再百度或者谷歌搜到一大堆, 我就不重复叙述了. 个人建议用 [Github 官方的帮助文档](https://help.github.com/). 里面基本有你所有想要了解的东西.     
 
     >  > 比如:    
-    >  > - [设置用户名和邮箱](https://help.github.com/articles/set-up-git/)      
-    >  > - [安装完 Github for windows 还需要安装其他东西吗?](https://help.github.com/articles/do-i-need-to-install-anything-extra/)
-    >  > - [安装完 Github或者 TortoiseGit 之后还需要项目公钥吗?](https://help.github.com/articles/do-i-need-ssh-keys-to-use-github-for-windows/)    
-    > 建议不要用 SSH 公钥, 没必要, 麻烦. 现在基本都用 https. 客户端都会缓存你的认证信息, 等你输入一次之后, 基本以后都不需要再重新输入 . 
+    >  > - [设置用户名和邮箱](https://help.github.com/articles/set-up-git/)          
+    
+    >  > - [安装完 Github for windows 还需要安装其他东西吗?](https://help.github.com/articles/do-i-need-to-install-anything-extra/)    
+    
+    >  > - [安装完 Github或者 TortoiseGit 之后还需要项目公钥吗?](https://help.github.com/articles/do-i-need-ssh-keys-to-use-github-for-windows/)     
+    
+    > 建议不要用 SSH 公钥, 没必要, 麻烦. 现在基本都用 https. 客户端都会缓存你的认证信息, 等你输入一次之后, 基本以后都不需要再重新输入 .    
+    
     >  > - [Github for windows 客户端帮助](https://help.github.com/categories/github-for-windows/)
 
-## 3. markdown 
+## 3. Markdown 
 >  由于 markdown 的实现各个平台有细节差异. 所以, 还是参照 Github 官方的 help 文档来学习比较有针对性. 还好内容不错. 可以很快上手.    
 
 >   > -  [基础知识](https://help.github.com/articles/markdown-basics/)        
@@ -92,14 +100,17 @@ __μfun 项目组已经确定使用 Github 来作为 μfun 项目软件部分代
 ## 4. License 选择
 > 抛出几张图,  我也不大懂. 逃)       
 
->  ![](http://image.beekka.com/blog/201105/bg2011050101.png)   
->  ![](http://hi.csdn.net/attachment/201105/25/0_1306296079vEDZ.gif)
->  ![](http://hi.csdn.net/attachment/201105/25/0_13062960880Uov.gif)
+>  ![](http://image.beekka.com/blog/201105/bg2011050101.png)    
+---
+>  ![](http://hi.csdn.net/attachment/201105/25/0_1306296079vEDZ.gif)    
+---
+>  ![](http://hi.csdn.net/attachment/201105/25/0_13062960880Uov.gif)     
+---
 
 
 -------
 ## 5. 后记    
-__水平有限, 我只是 google/Baidu 的搬运工, 这些资料都是我曾经学习时用到的, 但是 Git 和 Github 用的不多, 所有有问题大家一起讨论互相学习共同进步.__      
+__水平有限, 我只是 google/Baidu 的搬运工, 这些资料都是我曾经学习时用到的, 但是 Git 和 Github 用的不多, 所以有问题大家一起讨论互相学习共同进步.__      
 
 > 如果哪里有遗漏的, 可以提出来我来补充.     
 
