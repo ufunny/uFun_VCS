@@ -16,7 +16,9 @@
 >    你可以比较文件的变化细节，查出最后是谁修改了哪个地方，从而找出导致怪异问题出现的原因，又是谁在何时报告了某个功能缺陷等等。使用版本控制系统通常还意味着，就算你乱来一气把整个项目中的文件改的改删的删，你也照样可以轻松恢复到原先的样子。但额外增加的工作量却微乎其微。([这段是 Ctrl+C](https://code.csdn.net/help/CSDN_Code/progit/zh/01-introduction/01-chapter1))    
 
 
-> __*需要注意*__ 的是二进制文件, 如: word, excel, jpg/bmp/png/gif, Schematic, PCB 等,在作版本管理的时候是没法像文本文件那样合并(Merge), diff查看差异的, 出现冲突时只能强制覆盖掉或者保留.
+> __*需要注意*__ 的是二进制文件, 如: word, excel, jpg/bmp/png/gif, Schematic, PCB 等,在作版本管理的时候是没法像文本文件那样合并(Merge), diff查看差异的, 出现冲突时只能强制覆盖掉或者保留.    
+
+> 虽然有这些不足, 但是**版本管理依然还是很有必要**的. 
      
  - __~~Local VCS 本地版本管理:~~__
   ![](https://code.csdn.net/CSDN_Code/progit/blob/master/figures/18333fig0101-tn.png)
