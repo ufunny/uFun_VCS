@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [背景]
 * 版本管理简介
 * Git 相关资料
