@@ -2,5 +2,5 @@
 * [Simplified Chinese](zh/)    
      
 ```
-Empty  Temporarily
+Temporarily Empty
 ```
